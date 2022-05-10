@@ -1,0 +1,13 @@
+138 out of 154 are labeled correctly using pretrained network and discrete RGB data
+94.8% of original data are labeled correctly
+
+test1 (training on discrete data):
+9% percent of image are labeled correctly using normal image
+84% percent of image are labeled correctly using discrete image
+
+98% percent of image are labeled correctly using original (non-adversarial) image
+152 out of 154 of image are labeled correctly using Discrete (non-adversarial) image
+
+test2 (training on normal data):
+5% percent of image are labeled correctly using normal image
+28% percent of image are labeled correctly using discrete image
